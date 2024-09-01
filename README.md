@@ -1,5 +1,7 @@
 I'm still editing to make it more efficient for research papers (if you are interested in working on this, ping me at vasudevakarina@gmail.com)
 
+I could use support with graph interpretation and machine learning processing to filter unnecessary text. I would also love to make the voice more natural sounding. 
+
 # TechSpeak
 
 TechSpeak is a Flask-based web application that processes technical documents, interprets formulas, and converts the content to speech. It's designed to make technical content more accessible, especially for people with disabilities.
@@ -36,7 +38,7 @@ TechSpeak is a Flask-based web application that processes technical documents, i
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. 
 
 ## License
 
