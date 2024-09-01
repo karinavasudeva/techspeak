@@ -14,7 +14,7 @@ TechSpeak is a Flask-based web application that processes technical documents, i
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/techspeak.git
+   git clone https://github.com/karinavasudeva/techspeak.git
    cd techspeak
    ```
 
@@ -30,9 +30,9 @@ TechSpeak is a Flask-based web application that processes technical documents, i
    python app.py
    ```
 
-2. Open a web browser and go to `http://localhost:5000`
+2. Open a web browser and go to `http://localhost:5000` or whatever site your Terminal says
 
-3. Upload a document and receive the processed audio file
+3. Upload a document and receive the processed audio file in your project folder.
 
 ## Contributing
 
